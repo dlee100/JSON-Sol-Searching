@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Object": [
+    { "ObjectName": "Sol: Sun", 
+     "ObjectImageName": "https://raw.githubusercontent.com/dlee100/JSON-Sol-Searching/master/images/sun.jpg",
+    "ObjectAU": 0, 
+     "ObjectYear": 0, 
+     "ObjectSite": "https://solarsystem.nasa.gov/solar-system/sun/overview/", 
+     "ObjectSymbol": "https://raw.githubusercontent.com/dlee100/JSON-Sol-Searching/master/images/sun-symbol.png",
+    "ObjectReference":"Sun: By NASA/SDO (AIA) - http://sdo.gsfc.nasa.gov/assets/img/browse/2010/08/19/20100819_003221_4096_0304.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11348381 \nSun Symbol: By Melian - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=643618",
+    "ObjectDescription": "The Sun is the heart of our solar system. Its immense gravity brings everything in the solar system in order. As big and massive as it is, it is classified as a measely Yellow Dwarf Star. There are much bigger stars out there beyond our system."},
+    { },
+    { },
+    { },
+    { },
+    { },
+    { },
+    { },
+    { },
+  ]
 }
